@@ -383,6 +383,8 @@ body {
   font-weight: 500;
   color: #fff;
   margin-bottom: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .footer-icon-list {
   display: flex;
