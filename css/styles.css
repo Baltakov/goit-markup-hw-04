@@ -223,7 +223,17 @@ body {
 .benefits-list-item {
   width: calc((100% - 3 * 24px) / 4);
 }
+.values-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  background-color: var(--color-txt-button);
+}
 /* ====== SECTION3 ======= */
+
 .top-doing {
   font-size: 36px;
   font-weight: 500;
