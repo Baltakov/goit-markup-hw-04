@@ -617,6 +617,10 @@ footer .logotype-blue {
   fill: #fff;
   background-color: #404bbf;
 }
+.close-btn:hover .close-btn-icon,
+.close-btn:focus .close-btn-icon {
+  fill: #fff;
+}
 .close-btn-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
